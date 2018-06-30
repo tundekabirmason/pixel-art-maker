@@ -6,4 +6,4 @@ This is my submission to the #7DaysOfCode Challenge as an ALC Learner on the Fro
 
 The app is written in pure javascript, no JQuery.
 
-Hosted version here: https://tundekabirmason.github.io/pixel-art-maker/
+Hosted version here: <a href="https://tundekabirmason.github.io/pixel-art-maker/" target="_blank">https://tundekabirmason.github.io/pixel-art-maker/</a>
